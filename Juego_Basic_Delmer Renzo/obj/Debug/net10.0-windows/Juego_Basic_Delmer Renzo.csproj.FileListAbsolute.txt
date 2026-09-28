@@ -1,0 +1,16 @@
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\Juego_Basic_Delmer_Renzo.Form1.resources
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.csproj.GenerateResource.cache
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.AssemblyInfoInputs.cache
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.AssemblyInfo.cs
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.csproj.CoreCompileInputs.cache
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\bin\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.exe
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\bin\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.deps.json
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\bin\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.runtimeconfig.json
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\bin\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.dll
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\bin\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.pdb
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.dll
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\refint\Juego_Basic_Delmer Renzo.dll
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.pdb
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\Juego_Basic_Delmer Renzo.genruntimeconfig.cache
+D:\Documents\Calidad de software\Juegos\Juego_Basic_Delmer Renzo\obj\Debug\net10.0-windows\ref\Juego_Basic_Delmer Renzo.dll
